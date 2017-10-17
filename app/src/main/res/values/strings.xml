@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TumblrViewer</string>
+    <string name="error_message">Could not load data</string>
+    <string name="stopButtonText">Stop</string>
+    <string name="playButtonText">Play</string>
+    <string name="findButtonText">Find!</string>
+    <string name="chooseUserNameTextView">Choose user name</string>
+    <string name="hintEditText">For example: demo or john\n(there are such users :))</string>
+    <string name="load_more">Load more</string>
+    <string name="https">https://</string>
+    <string name="url">.tumblr.com/api/read/json</string>
+
+</resources>
